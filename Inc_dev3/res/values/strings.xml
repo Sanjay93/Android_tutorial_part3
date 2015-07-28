@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inc_dev3</string>
+    <string name="action_settings">Settings</string>
+   
+    <string name="user">Username</string>
+  <string name="pwd">Password</string>
+   <string name="welcome">WELCOME</string>
+    <string name="sumo">Your Name</string>
+       <string name="button">Save</string>
+</resources>
